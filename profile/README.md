@@ -1,41 +1,43 @@
-\# Trjo Development Studio
+<h1>Trjo Development Studio (TDS)</h1>
 
-\*\*Trjo Development Studio \(TDS\)\*\* is an independent game development studio founded and operated by \*\*Trjo\*\*.
+<p>Trjo Development Studio (TDS) is an independent game development studio founded and operated by Trjo.</p>
 
-We create games with a focus on polished gameplay, interesting systems, and enjoyable experiences.
+<p>We create games with a focus on polished gameplay, interesting systems, and enjoyable experiences.</p>
 
-\#\# Current Projects
+<h2>Current Projects</h2>
 
-\#\#\# Apex Horizon
+<h3>Apex Horizon</h3>
 
-\*\*Apex Horizon\*\* is a financial strategy game where you start as a small investor and work your way toward building a financial empire.
+<p>Apex Horizon is a financial strategy game where you start as a small investor and work your way toward building a financial empire.</p>
 
-The game focuses on investing, growing wealth, building companies, and making decisions that shape your journey.
+<p>The game focuses on investing, growing wealth, building companies, and making decisions that shape your journey.</p>
 
-\> Apex Horizon is currently in development\.
+<blockquote>
+  Apex Horizon is currently in development.
+</blockquote>
 
-\#\# What We Do
+<h2>What We Do</h2>
 
-\- Game Development
-\- Software Development
-\- Game Design
-\- Testing \&amp; Iteration
-\- Game \&amp; UI Design
+<p>Game Development<br/>
+Software Development<br/>
+Game Design<br/>
+Testing &amp; Iteration<br/>
+Game &amp; UI Design</p>
 
-\#\# Links
+<h2>Links</h2>
 
-\- \[Website\]\(https://trjo\.dev\)
-\- \[Devlogs\]\(https://trjo\.dev/devlogs\)
-\- \[Discord\]\(https://discord\.gg/5RCBbrQgyM\)
+<p>Website: https://trjo.dev<br/>
+Devlogs: https://trjo.dev/devlogs<br/>
+Discord: https://discord.gg/5RCBbrQgyM</p>
 
-\#\# About TDS
+<h2>About TDS</h2>
 
-TDS is currently a solo development studio, with Trjo handling development, design, and the various other parts of creating our games\.
+<p>TDS is currently a solo development studio, with Trjo handling development, design, and the various other parts of creating our games.</p>
 
-The studio will continue to grow and take on new projects over time\.
+<p>The studio will continue to grow and take on new projects over time.</p>
 
-\-\-\-
+<hr/>
 
-\*\*Trjo Development Studio \— TDS\*\*
+<p><strong>Trjo Development Studio — TDS</strong></p>
 
-\*Creating games, one project at a time\.\*
+<p><em>Creating games, one project at a time.</em></p>
