@@ -16,6 +16,16 @@
   Apex Horizon is currently in development.
 </blockquote>
 
+<h3>TrjoLudus</h3>
+
+<p>
+  <strong>TrjoLudus</strong> is a Python game engine focused on making game development simple, intuitive, and powerful. It provides a clean API for creating games while handling the complex engine systems behind the scenes.
+</p>
+
+<blockquote>
+  TrjoLudus is currently in development.
+</blockquote>
+
 <h2>What We Do</h2>
 
 <p>Game Development<br/>
