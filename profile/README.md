@@ -37,7 +37,8 @@ Game &amp; UI Design</p>
 <h2>Links</h2>
 
 <p>Website: https://trjo.dev<br/>
-Devlogs: https://trjo.dev/devlogs<br/>
+Devlogs: https://devlogs.trjo.dev<br/>
+Ludus: https://ludus.trjo.dev
 Discord: https://discord.gg/5RCBbrQgyM</p>
 
 <h2>About TDS</h2>
